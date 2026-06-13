@@ -517,7 +517,7 @@
     },
     "background": {
         "url": "https://files.catbox.moe/46xxpb.jpeg",
-	"alpha": 1
+	"alpha": 0.8
     },
     "plus": {
         "version": 0,
