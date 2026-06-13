@@ -1,0 +1,109 @@
+{
+  "name": "M4X - MV33",
+  "description": "Simply lovely, Max. 4 in a row.",
+  "authors": [
+    {
+      "name": "PPFox :3",
+      "id": "505053442033844254"
+   }
+],
+  "background": {
+  "blur": 0.9,
+    "url": "https://files.catbox.moe/ttd5c3.png",
+    "alpha": 0.35
+  }
+}
+"semanticColors": {
+    "BACKGROUND_SECONDARY": [
+      "#46446e"
+    ],
+    "BG-BRAND": [
+      "#5865f2"
+    ],
+    "PANEL_BG": [
+      "#202457"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#484e75"
+    ],
+    "SECONDARY_FOCUSED_BACKGROUND": [
+      "#543e00"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#3b3f6e"
+    ],
+    "PRIMARY_FOCUSED_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#404c91"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1c1d22"
+    ],
+    "SELECTION_PICKER_BG": [
+      "#000000"
+    ],
+    "TEXT_PRIMARY": [
+      "#1e00ff"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#2d2d35"
+    ],
+    "EMBED_BACKGROUND": [
+      "#27272f"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ff6f00"
+    ],
+    "TEXT_SECONDARY": [
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#3d3d47"
+    ],
+    "TEXT_MUTED": [
+      "#7c7e8a"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#47327a"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#27272f"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#373a43"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#787b82"
+    ],
+    "CHANNEL_ICON": [
+      "#818592"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#26262e"
+    ],
+    "EXPRESSION_PICKER_BG": [
+      "#141318"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#1c1d22"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#9597a3"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#141318"
+    ]
+  },
+  "rawColors": {
+    "PLUM_20": "#1c1d22"
+  },
+  "spec": 2
+}
